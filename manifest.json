@@ -1,0 +1,20 @@
+{
+    "name": "Free POS Note beta",
+    "short_name": "Free POS Note",
+    "description": "Managment system",
+    "start_url": "/Free-POS-Note-beta/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/Free-POS-Note-beta/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/Free-POS-Note-beta/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+
+}
